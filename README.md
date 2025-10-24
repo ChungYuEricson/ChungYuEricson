@@ -1,4 +1,4 @@
-# Chung Yu Ericson Ho
+#Ericson Ho
 
 ## Education
 #### University of Waterloo
