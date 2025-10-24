@@ -1,5 +1,3 @@
-#Ericson Ho
-
 ## Education
 #### University of Waterloo
 Bachelor's degree, Faculty of Engineering, Architectural Studies
