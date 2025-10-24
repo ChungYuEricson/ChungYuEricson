@@ -10,7 +10,7 @@ Bachelor's degree, Faculty of Science,  Computer Science
 
 ## My Tech Stack
 
-Here are the languages, frameworks, and tools I use for my projects:
+Here are the languages, frameworks, and tools I use:
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,13 +23,12 @@ Here are the languages, frameworks, and tools I use for my projects:
 
 ## Featured Personal Projects
 
-These are the projects I'm most proud of. Click the link to check out the code!
-
 | Project Name | Brief Description | Key Technologies Used |
 | :--- | :--- | :--- |
-| **[Calendar Stamp App](https://github.com/ChungYuEricson/Calendar-Stamp)** | [One-sentence summary, e.g., A mobile application that suggests recipes based on ingredients you have at home.] | `[Tech 1]`, `[Tech 2]`, `[Tech 3]` |
+| **[Calendar Stamp App (Ongoing)](https://github.com/ChungYuEricson/Calendar-Stamp)** | [One-sentence summary, e.g., A mobile application that suggests recipes based on ingredients you have at home.] | `[Tech 1]`, `[Tech 2]`, `[Tech 3]` |
 | **[Garden Database System](https://github.com/ChungYuEricson/Garden-Database-Management-System)** | [One-sentence summary, e.g., A visualization dashboard built to track and predict stock market trends using historical data.] | `[Tech 1]`, `[Tech 2]`, `[Tech 3]` |
 | **[UBC Insight Demo]()** | [One-sentence summary, e.g., My personal portfolio site showcasing all my work and skills, built from scratch.] | `[Tech 1]`, `[Tech 2]`, `[Tech 3]` |
+| **[Matchmaking Desktop App]()** | [One-sentence summary, e.g., My personal portfolio site showcasing all my work and skills, built from scratch.] | `[Tech 1]`, `[Tech 2]`, `[Tech 3]` |
 
 ➡️ **Find more on my [GitHub Repositories Tab](https://github.com/ChungYuEricson?tab=repositories)**
 
