@@ -1,6 +1,10 @@
-# Hello there! I'm [Your Name] 👋
+# Chung Yu Ericson Ho
 
-### 🎓 Student & Aspiring [Your Career Goal, e.g., Software Engineer, Data Scientist]
+### Education
+- University of Waterloo
+- Bachelor's degree, Faculty of Engineering, Architectural Studies
+- The University of British Columbia
+- Bachelor's degree, Faculty of Science,  Computer Science
 
 * I'm currently a student at **[Your University/College Name]**, majoring in **[Your Major]**.
 * My academic focus is on **[Specific area of study, e.g., Algorithms, Cloud Computing, UX/UI Design]**.
