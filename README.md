@@ -29,4 +29,4 @@ Here are the languages, frameworks, and tools I use:
 | **[Sport Game Schedule Desktop App](https://github.com/ChungYuEricson/sport-game-schedule-desktop-app)** | The goal of this project is to provide a convenient, quick schedule creation tool for sports teams. | `Java Swing`, `Java`, `Object-Oriented Programming` |
 
 **Find more on my [GitHub Repositories Tab](https://github.com/ChungYuEricson?tab=repositories)**
-
+**Check out my other designs [here](https://drive.google.com/drive/folders/1kpmstwtDjhpUOIyUR6x7XK2ZloGU-4kw?usp=drive_link)**
