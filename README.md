@@ -28,5 +28,5 @@ Here are the languages, frameworks, and tools I use:
 | **[UBC Insight Facade Demo](https://github.com/ChungYuEricson/UBC-Insight)** | A REST API server for a university data analytics system that manages, stores, and executes complex queries against UBC course section and campus room data.| `Node.js / Express`, `TypeScript`, `Angular` |
 | **[Sport Game Schedule Desktop App](https://github.com/ChungYuEricson/sport-game-schedule-desktop-app)** | The goal of this project is to provide a convenient, quick schedule creation tool for sports teams. | `Java Swing`, `Java`, `Object-Oriented Programming` |
 
-**Find more on my [GitHub Repositories Tab](https://github.com/ChungYuEricson?tab=repositories)**
+**Find more on my [GitHub Repositories Tab](https://github.com/ChungYuEricson?tab=repositories)** </br>
 **Check out my other designs [here](https://drive.google.com/drive/folders/1kpmstwtDjhpUOIyUR6x7XK2ZloGU-4kw?usp=drive_link)**
