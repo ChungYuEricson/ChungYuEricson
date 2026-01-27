@@ -21,12 +21,24 @@ Here are the languages, frameworks, and tools I use:
 
 ## Featured Personal Projects
 
+### Full Stack Development
+
 | Project Name | Brief Description | Key Technologies Used |
 | :--- | :--- | :--- |
-| **[Calendar Stamp App (Ongoing)](https://github.com/ChungYuEricson/Calendar-Stamp)** | Calendar-Stamp is a minimal, cross-platform mobile application designed to help users track habits, mark achievements, or log daily progress using a simple calendar interface. | `Expo/React Native`, `TypeScript`, `Expo Router`, `Functional Programming` |
-| **[Garden Database System](https://github.com/ChungYuEricson/Garden-Database-Management-System)** | The system is a relational database application designed to support organized and sustainable gardening practices for both individual and community gardeners. | `SQL`, `Oracle`, `JavaScript`, `Node.js`, `HTML`, `CSS`|
-| **[UBC Insight Facade Demo](https://github.com/ChungYuEricson/UBC-Insight)** | A REST API server for a university data analytics system that manages, stores, and executes complex queries against UBC course section and campus room data.| `Node.js / Express`, `TypeScript`, `Angular` |
+| **[Calendar Stamp App](https://github.com/ChungYuEricson/Calendar-Stamp)** | Calendar-Stamp is a minimal, cross-platform mobile application designed to help users track habits, mark achievements, or log daily progress using a simple calendar interface. | `Expo/React Native`, `TypeScript`, `Expo Router`, `Functional Programming` |
 | **[Sport Game Schedule Desktop App](https://github.com/ChungYuEricson/sport-game-schedule-desktop-app)** | The goal of this project is to provide a convenient, quick schedule creation tool for sports teams. | `Java Swing`, `Java`, `Object-Oriented Programming` |
+
+### Database & Backend
+
+| Project Name | Brief Description | Key Technologies Used |
+| :--- | :--- | :--- |
+| **[Garden Database System](https://github.com/ChungYuEricson/Garden-Database-Management-System)** | The system is a relational database application designed to support organized and sustainable gardening practices for both individual and community gardeners. | `SQL`, `Oracle`, `JavaScript`, `Node.js`, `HTML`, `CSS`|
+
+### Data Science & Analytics
+
+| Project Name | Brief Description | Key Technologies Used |
+| :--- | :--- | :---
+|**[Global Seismic Activity: Interactive Dashboard](https://chungyuericson.github.io/VisualizingGlobalEarthquakes/index)**|Interactive dashboard analyzing global seismic trends and network performance using USGS open-access data.|`Python`,`Nunmpy`,`Pandas`,`Altair`,`HTML`|
 
 **Find more on my [GitHub Repositories Tab](https://github.com/ChungYuEricson?tab=repositories)** </br>
 **Check out my other designs [here](https://drive.google.com/drive/folders/1kpmstwtDjhpUOIyUR6x7XK2ZloGU-4kw?usp=drive_link)**
